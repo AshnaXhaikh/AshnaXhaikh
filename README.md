@@ -48,8 +48,17 @@ I leverage a powerful mix of libraries and frameworks to execute the full data s
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logo=facebook&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face%20Spaces-FFD21C?style=for-the-badge&logo=huggingface&logoColor=black" />
+
 </p>
 
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,keras,pandas,numpy,matplotlib,seaborn" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=huggingface,ai,azure,gcp" /> 
+  <br>
+  <img src="https://skillicons.dev/icons?i=streamlit,firebase,vscode" />
+  </p>
 
 ---
 
