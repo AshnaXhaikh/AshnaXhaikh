@@ -24,12 +24,32 @@
 
 ### 🛠️ Tech Stack: The Data Science Toolkit
 
-| Category | Technologies |
-| :--- | :--- |
-| **Core ML/DL** | `Scikit-learn` • `TensorFlow` • `Keras` • `PyTorch` • `XGBoost` |
-| **Data & EDA** | `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Plotly` |
-| **NLP & LLMs** | `LangChain` • `LlamaIndex` • `Hugging Face` • `OpenAI API` |
-| **Deployment** | `Streamlit` • `Hugging Face Spaces` • `Streamlit Cloud` |
+I leverage a powerful mix of libraries and frameworks to execute the full data science, machine learning, and AI automation workflow:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-1E90FF?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-348AA7?style=for-the-badge&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-27357F?style=for-the-badge&logo=plotly&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/LangChain-111111?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21C?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face%20Spaces-FFD21C?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
+
 
 ---
 
