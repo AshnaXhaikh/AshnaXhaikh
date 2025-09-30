@@ -49,19 +49,27 @@ I leverage a powerful mix of libraries and frameworks to execute the full data s
   <img src="https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logo=facebook&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face%20Spaces-FFD21C?style=for-the-badge&logo=huggingface&logoColor=black" />
 
+
 </p>
 
+---
+
+### 🛠️ The Agentic AI Arsenal (Tech Stack)
+
+I leverage a powerful mix of libraries and frameworks to execute the full data science, machine learning, and AI automation workflow:
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,keras,pandas,numpy,matplotlib,seaborn" />
   <br>
-  <img src="https://skillicons.dev/icons?i=huggingface,ai,azure,gcp" /> 
-  <br>
-  <img src="https://skillicons.dev/icons?i=streamlit,firebase,vscode" />
-  </p>
-
+  <img src="https://skillicons.dev/icons?i=huggingface,ai,streamlit" />
+  
+  &nbsp;
+  <img src="https://img.shields.io/badge/LangChain-111111?style=flat&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-FF6F00?style=flat&logo=llama&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-005C99?style=flat&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astra%20DB-005C99?style=flat&logo=apache&logoColor=white" />
+</p>
 ---
-
 ### 📊 My GitHub Stats
 
 [![Ashna's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshnaXhaikh&show_icons=true&theme=dark&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
