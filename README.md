@@ -54,6 +54,21 @@ I leverage a powerful mix of libraries and frameworks to execute the full data s
 
 ---
 ### 📊 My GitHub Stats
+### 📊 My GitHub Stats
+
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=AshnaXhaikh&show_icons=true&theme=dark&rank_icon=github&hide_border=true" alt="Ashna's GitHub Stats" />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshnaXhaikh&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  </a>
+  
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshnaXhaikh&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </a>
+</p>
 
 [![Ashna's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshnaXhaikh&show_icons=true&theme=dark&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
