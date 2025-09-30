@@ -27,7 +27,6 @@
 I leverage a powerful mix of libraries and frameworks to execute the full data science, machine learning, and AI automation workflow:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,keras,pandas,numpy,matplotlib,seaborn" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
