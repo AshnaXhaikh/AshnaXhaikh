@@ -1,6 +1,6 @@
 # 🌟 About Me
 
-### 💻 Data Scientist & Machine Learning Engineer
+### 💻 Data Scientist & Machine Learning Practitioner
 
 - 🔭 **I’m currently working on:** Building **end-to-end Machine Learning and Deep Learning pipelines**, specializing in taking models from EDA to deployment on platforms like Streamlit Cloud and Hugging Face Spaces.
 
